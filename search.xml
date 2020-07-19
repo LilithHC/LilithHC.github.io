@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/07/19/hello-world/"/>
+      <url>/2020/07/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Test</title>
+      <link href="/2020/07/19/Test/"/>
+      <url>/2020/07/19/Test/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo-Github-搭建博客"><a href="#Hexo-Github-搭建博客" class="headerlink" title="Hexo+Github 搭建博客"></a>Hexo+Github 搭建博客</h2><hr><h3 id="简单学习了如何利用Hexo和Github快速搭建博客。"><a href="#简单学习了如何利用Hexo和Github快速搭建博客。" class="headerlink" title="简单学习了如何利用Hexo和Github快速搭建博客。"></a>简单学习了如何利用Hexo和Github快速搭建博客。</h3><h3 id="在一堆主题里选了volantis-自定义配置一下应该会很好看。"><a href="#在一堆主题里选了volantis-自定义配置一下应该会很好看。" class="headerlink" title="在一堆主题里选了volantis,自定义配置一下应该会很好看。"></a>在一堆主题里选了volantis,自定义配置一下应该会很好看。</h3><h3 id="发布文章流程如下："><a href="#发布文章流程如下：" class="headerlink" title="发布文章流程如下："></a>发布文章流程如下：</h3><ul><li><h3 id="hexo-new-titlename-使用该命令生成md文件"><a href="#hexo-new-titlename-使用该命令生成md文件" class="headerlink" title="hexo new titlename 使用该命令生成md文件"></a>hexo new titlename 使用该命令生成md文件</h3></li><li><h3 id="hexo-g-生成静态文件【dexo-generate的简写】"><a href="#hexo-g-生成静态文件【dexo-generate的简写】" class="headerlink" title="hexo g 生成静态文件【dexo generate的简写】"></a>hexo g 生成静态文件【dexo generate的简写】</h3></li><li><h3 id="hexo-d-部署网站【hexo-deploy的简写】"><a href="#hexo-d-部署网站【hexo-deploy的简写】" class="headerlink" title="hexo d 部署网站【hexo deploy的简写】"></a>hexo d 部署网站【hexo deploy的简写】</h3></li></ul><h2 id="暑期学习"><a href="#暑期学习" class="headerlink" title="暑期学习"></a>暑期学习</h2><hr><h3 id="最近项目进展不是很顺利，害。"><a href="#最近项目进展不是很顺利，害。" class="headerlink" title="最近项目进展不是很顺利，害。"></a>最近项目进展不是很顺利，害。</h3><h3 id="下面我负责关系抽取部分，要撸起袖子加油干！"><a href="#下面我负责关系抽取部分，要撸起袖子加油干！" class="headerlink" title="下面我负责关系抽取部分，要撸起袖子加油干！"></a>下面我负责关系抽取部分，要撸起袖子加油干！</h3><h3 id="第一周实习感慨，切身感受到了赚钱不容易。【以后每次想喝奶茶，就用这笔钱买基金去！！！】"><a href="#第一周实习感慨，切身感受到了赚钱不容易。【以后每次想喝奶茶，就用这笔钱买基金去！！！】" class="headerlink" title="第一周实习感慨，切身感受到了赚钱不容易。【以后每次想喝奶茶，就用这笔钱买基金去！！！】"></a>第一周实习感慨，切身感受到了赚钱不容易。【以后每次想喝奶茶，就用这笔钱买基金去！！！】</h3><h3 id="买的操作系统和计算机网络的书还没到，waiting……"><a href="#买的操作系统和计算机网络的书还没到，waiting……" class="headerlink" title="买的操作系统和计算机网络的书还没到，waiting……"></a>买的操作系统和计算机网络的书还没到，waiting……</h3><h2 id="Souvenirs-of-Life"><a href="#Souvenirs-of-Life" class="headerlink" title="Souvenirs of Life"></a>Souvenirs of Life</h2><hr><h3 id="今天抢到了小堍棉花娃娃的掉落。（掉落的掉落orz）可以琢磨着给他买小裙子啦。"><a href="#今天抢到了小堍棉花娃娃的掉落。（掉落的掉落orz）可以琢磨着给他买小裙子啦。" class="headerlink" title="今天抢到了小堍棉花娃娃的掉落。（掉落的掉落orz）可以琢磨着给他买小裙子啦。"></a>今天抢到了小堍棉花娃娃的掉落。（掉落的掉落orz）可以琢磨着给他买小裙子啦。</h3><h3 id="希望能蹲到喜欢的老师的画集还有再录本！"><a href="#希望能蹲到喜欢的老师的画集还有再录本！" class="headerlink" title="希望能蹲到喜欢的老师的画集还有再录本！"></a>希望能蹲到喜欢的老师的画集还有再录本！</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
